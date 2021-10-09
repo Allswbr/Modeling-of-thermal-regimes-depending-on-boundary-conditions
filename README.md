@@ -29,4 +29,6 @@
     - Численное решение
     - Моделирование тепловых режимов в зависимости от граничных условий
 
-## Решение
+## [Решение](https://github.com/Allswbr/Modeling-of-thermal-regimes-depending-on-boundary-conditions/blob/main/solution.ipynb)
+
+## [Отчёт](https://github.com/Allswbr/Modeling-of-thermal-regimes-depending-on-boundary-conditions/blob/main/report.pdf)
